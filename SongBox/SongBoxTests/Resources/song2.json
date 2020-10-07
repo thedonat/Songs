@@ -1,0 +1,25 @@
+{
+    "artistName": "Eric Church",
+    "id": "1533137826",
+    "releaseDate": "2020-10-02",
+    "name": "Hell of a View",
+    "collectionName": "Hell of a View - Single",
+    "kind": "song",
+    "copyright": "An EMI Records Nashville Release; ℗ 2020 BigEC Records LLC, under exclusive license to UMG Recordings, Inc.",
+    "artistId": "123055194",
+    "artistUrl": "https://music.apple.com/us/artist/eric-church/123055194?app=itunes",
+    "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/98/da/33/98da33d0-126f-095a-3129-bf1fda54acca/20UMGIM81278.rgb.jpg/200x200bb.png",
+    "genres": [
+        {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+        },
+        {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+        }
+    ],
+    "url": "https://music.apple.com/us/album/hell-of-a-view/1533137281?i=1533137826&app=itunes"
+}

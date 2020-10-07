@@ -1,0 +1,24 @@
+{
+    "artistName": "Demi Lovato",
+    "id": "1534058286",
+    "name": "Still Have Me",
+    "collectionName": "Still Have Me - Single",
+    "kind": "song",
+    "copyright": "℗ 2020 Island Records, a division of UMG Recordings, Inc.",
+    "artistId": "280215821",
+    "artistUrl": "https://music.apple.com/us/artist/demi-lovato/280215821?app=itunes",
+    "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ff/72/9c/ff729c2d-18b2-3379-59e1-9b020e8b6293/20UMGIM86278.rgb.jpg/200x200bb.png",
+    "genres": [
+        {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+        },
+        {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+        }
+    ],
+    "url": "https://music.apple.com/us/album/still-have-me/1534058098?i=1534058286&app=itunes"
+}

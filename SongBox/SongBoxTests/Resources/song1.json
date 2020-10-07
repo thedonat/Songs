@@ -1,0 +1,25 @@
+{
+    "artistName": "Shawn Mendes",
+    "id": "1533345325",
+    "releaseDate": "2020-10-02",
+    "name": "Wonder",
+    "collectionName": "Wonder",
+    "kind": "song",
+    "copyright": "℗ 2020 Island Records, a division of UMG Recordings, Inc.",
+    "artistId": "890403665",
+    "artistUrl": "https://music.apple.com/us/artist/shawn-mendes/890403665?app=itunes",
+    "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/b8/27/bd/b827bda8-c9ed-7c74-e09a-218231716cd7/20UMGIM83351.rgb.jpg/200x200bb.png",
+    "genres": [
+        {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+        },
+        {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+        }
+    ],
+    "url": "https://music.apple.com/us/album/wonder/1533345318?i=1533345325&app=itunes"
+}
